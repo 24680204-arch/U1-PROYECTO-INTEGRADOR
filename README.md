@@ -177,7 +177,7 @@ generar_pasillo_curvo()
 Llama a la función y ejecuta todo el proceso.
 ```
 -----
-https://github.com/user-attachments/assets/98208f85-dd03-4cd2-ae93-458ce6f220ea
+https://github.com/user-attachments/assets/d50c1083-1f2d-4979-8287-cf8bdc755335
 --
 
 
